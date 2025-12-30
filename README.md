@@ -1,0 +1,2 @@
+# pintu
+bagimana membuka pintu
